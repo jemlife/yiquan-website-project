@@ -1,0 +1,23 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#menu {
+  width: 200px;
+  height: 100px;
+  float: left;
+}
+
+
+}
+
+
+h1 {
+  text-align: center;
+}
+
+p.lead {
+  text-align: center;
+}
